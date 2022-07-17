@@ -1,4 +1,4 @@
-﻿namespace SuperHeroAPI
+﻿namespace SuperHeroAPI.Entity
 {
     public class SuperHero
     {

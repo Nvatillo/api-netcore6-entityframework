@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using SuperHeroAPI.Entity;
 
 namespace SuperHeroAPI.Controllers
 {

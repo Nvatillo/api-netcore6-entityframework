@@ -1,4 +1,6 @@
-﻿namespace SuperHeroAPI.Data
+﻿using SuperHeroAPI.Entity;
+
+namespace SuperHeroAPI.Data
 {
     public class DataContext : DbContext
     {
